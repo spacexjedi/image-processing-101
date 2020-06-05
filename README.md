@@ -1,2 +1,1 @@
-# processamentoDeImagens
-Atividades e Projeto
+# image-processing-101
