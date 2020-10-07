@@ -26,7 +26,7 @@ for u=1:P
   endfor
 endfor
 
-figure(2), imshow(filt);
+figure(2), imshow(filter);
 
 tf = tf.*filter;
 tf = ifftshift(tf);
